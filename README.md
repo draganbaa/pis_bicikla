@@ -1,4 +1,4 @@
-# Prodaja i iznajmljivanj vicikala - README
+# Prodaja i iznajmljivanj bicikala - README
 
 | Sadržaj                                |
 | -------------------------------------- |
