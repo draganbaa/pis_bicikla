@@ -1,4 +1,4 @@
-# Udruga - Hrabri Telefon - README
+# Prodaja i iznajmljivanj vicikala - README
 
 | Sadržaj                                |
 | -------------------------------------- |
@@ -12,17 +12,12 @@ React App - Prodaja i iznajmljivanje bicikala
 
 ## II. Preduvjeti
 
-- [Node 18.15.0](https://nodejs.org/download/release/v18.15.0/)
+- 
 
 ## III. Pokretanje (Lokalno)
 
 - Klonirajte projekt na svoje računalo
 
 ```
-git clone 
+git clone https://github.com/draganbaa/pis_bicikla.git
 ```
-
-- Nakon toga unutar teme uradite:
-
-  - `npm install`
-  - `npm start`
